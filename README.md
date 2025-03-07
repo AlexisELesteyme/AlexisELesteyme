@@ -35,7 +35,7 @@
 
 <h4> 🖥 Web Portafolios</h4>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%233D3DFF?style=for-the-badge&logoColor=white)]([https://tu-enlace-aqui.com](https://alexis-web-portafolio.netlify.app/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%233D3DFF?style=for-the-badge&logoColor=white)]([https://alexis-web-portafolio.netlify.app/]) 
 
 https://alexis-web-portafolio.netlify.app/
 
